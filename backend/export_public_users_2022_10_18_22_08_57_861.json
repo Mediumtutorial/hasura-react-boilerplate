@@ -1,0 +1,20 @@
+[
+  {
+    "active": true,
+    "id": 1,
+    "email": "manish@gmail.com",
+    "name": "Manish Mandal"
+  },
+  {
+    "active": false,
+    "id": 34,
+    "email": "mahesh@gmail.com",
+    "name": "Mahesh"
+  },
+  {
+    "active": true,
+    "id": 35,
+    "email": "vivek@gmail.com",
+    "name": "Vivek"
+  }
+]
